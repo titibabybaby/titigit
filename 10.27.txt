@@ -1,2 +1,0 @@
-understand how git stage works
-
