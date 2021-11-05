@@ -1,4 +1,0 @@
-titi is learning git in 10.26
-Git is a version control system.
-Git is free software.
-kkk
